@@ -1,8 +1,8 @@
 # friendcoin
-Official Friendcoin Smart Contract
+Official Friendcoin Smart Contract<br /><br />
 
 Name: Friendcoin<br />
-Ticker: FRND
-Supply: 30,000,000
-Network: Binance Smart Chain
+Ticker: FRND<br />
+Supply: 30,000,000<br />
+Network: Binance Smart Chain<br />
 Token Type: BEP20
